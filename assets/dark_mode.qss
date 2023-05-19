@@ -1,0 +1,90 @@
+QWidget {
+    background-color: #212121;
+    color: #f8eeec;
+    font-family: Goudy Old Style;
+}
+
+QAbstractItemView {
+    background-color: #414147;
+    alternate-background-color: #545459;
+}
+
+QComboBox {
+    background-color: #414147;
+    color: #f8eeec;
+}
+
+QFrame#frame {
+    border: 3px solid #2C3333;
+    border-radius: 25px;
+}
+
+QHeaderView::section {
+QHeaderView::section {
+QHeaderView::section {
+QHeaderView::section {
+    background-color: #353535;
+    color: #f8eeec;
+}
+
+QLabel {
+    background: none;
+}
+
+QLineEdit {
+    background-color: #555555;
+    color: #f8eeec;
+}
+
+QLineEdit:focus {
+    border: 2px solid #5B8FB9;
+    border-radius: 3px;
+}
+
+QListWidget::item {
+    font-size: 18px;
+}
+
+QListWidgetItem {
+    font-size: 24px;
+}
+
+QMenu::item {
+    color: #f8eeec;
+}
+
+QMenu::item:selected {
+    background-color: #0F3460;
+}
+
+QMenuBar {
+    border-bottom: 1px solid #FFFBE7;
+    border-radius: 3px;
+    padding-top: 2px;
+    color: #f8eeec;
+}
+
+QMenuBar::item {
+    margin-left: 5px;
+    padding: 5px;
+    color: #f8eeec;
+}
+
+QMenuBar::item:pressed {
+    background-color: #301E67;
+}
+
+QPushButton:pressed {
+    background-color: #5B8FB9;
+}
+
+QTableView {
+    selection-background-color: orangered;
+    color: whitesmoke;
+    selection-color: white;
+}
+
+QTableView::item {
+    background-color: #424242;
+    color: whitesmoke;
+}
